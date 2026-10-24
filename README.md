@@ -30,23 +30,23 @@ I specialize in building high-performance, scalable web applications and distrib
 
 #### 🌐 [Osmo Social](https://osmo.social/)
 **Founding Engineer**
-Built a social media platform, geared towards social media research, privacy, and building authentic connection.
+Built a social media platform, geared towards social media research, privacy, and building authentic connections.
 - **Key Tech:** Elixir, Phoenix, Ash Framework, React Native, Expo.
 - **Architectural Wins:** Implemented a real-time geo-matching engine, WebRTC live video chat, and a multi-cloud Terraform infrastructure.
 - **Ops:** Designed a full observability stack using Prometheus, Grafana, Loki, and Tempo.
 
 #### 🔥 [emacs-fire-shader](https://gitlab.com/MegaJ/emacs-fire-shader)
 **Personal Project**
-Volumetric fire. Inside a text editor. I first learned about how Blizzard's SFX team created volumetric fire in the Diablo games from a GDC talk. When I saw what was happening on r/emacs with people rendering glsl, I realized I could probably write a really performant fire shader, and render it in emacs.
+Volumetric fire. Inside a text editor. I first learned about how Blizzard's SFX team created volumetric fire in the Diablo games from a GDC talk. When I saw what was happening on r/emacs with people rendering glsl, I realized I could probably write a really performant fire shader, and render it in Emacs.
 
 ---
 
 ### 🧩 (Engineering) Philosophy
-*  👁️ This is my favorite conference talk of all time, presented by Bret Victor: https://youtube.com/watch?v=8pTEmbeENF4 Bret's other videos also imparted in me, how essential it was to create **a powerful way of seeing** in any system, not just software. I still think, even in this nascent AI era, how we've strayed from building the really important tools for human communication and expression. Many of us still think of building things in terms of sitting behind a keyboard.
+*  👁️ This is my favorite conference talk of all time, presented by Bret Victor: https://youtube.com/watch?v=8pTEmbeENF4 Bret's other videos also instilled in me how essential it is to create **a powerful way of seeing** in any system, not just software. I still think, even in this nascent AI era, how we've strayed from building the really important tools for human communication and expression. Many of us still think of building things in terms of sitting behind a keyboard.
 *  📖 When actually making applications, I agree with almost everything in **A Philosophy of Software Design** by John Ousterhout.
 *  ⌨️ Personally, I think Emacs is still a great tool, and I haven't found something comparable yet. It embodies a type of freedom in software and has an adoption and ecosystem where I constantly get to reimagine what computing should be for me, what a workflow should feel like. It has quirky limitations, but it's fun and hackable.
-*  ⚡ I've been influenced by Carl Hewitt discovered/invented the **Actor Model**, a model of computation more powerful than the Turing Machine, and then a couple years later, stumbling into **Elixir** when needing to support websocket load. Anyone who's been comfortable outside of high concurrency computing could benefit from understanding at a high level, what Erlang or other BEAM languages provide https://www.youtube.com/watch?v=JvBT4XBdoUE I learned a lot of programming languages in the past 11 years and nothing comes close to this level of robustness and off-the-shelf inspectability.
-*  💎 I love **Ash** https://ash-hq.org/, I learned so much from using it. I model from a domain and some data, and get security boundaries, API endpoints (graphql/REST/RPC), and optimized queries for mostly free. No other ecosystem has such a tool as far as I know. It's far more powerful than Rails Active Records. Ash is an example of creating the right abstractions, and how an ecosystem that has the right abstractions simply builds more fault-tolerant, maintainable software.
+*  ⚡ I've been influenced by Carl Hewitt who discovered/invented the **Actor Model**, a model of computation more powerful than the Turing Machine, and then a couple of years later, I stumbled into **Elixir** when I needed to support WebSocket load. Anyone who's been comfortable outside of high concurrency computing could benefit from understanding at a high level what Erlang or other BEAM languages provide https://www.youtube.com/watch?v=JvBT4XBdoUE I learned a lot of programming languages in the past 11 years and nothing comes close to this level of robustness and off-the-shelf inspectability.
+*  💎 I love **Ash** https://ash-hq.org/, I learned so much from using it. I model from a domain and some data, and get security boundaries, API endpoints (graphql/REST/RPC), and optimized queries for mostly free. No other ecosystem has such a tool as far as I know. It's far more powerful than Rails ActiveRecord. Ash is an example of creating the right abstractions, and how an ecosystem that has the right abstractions simply builds more fault-tolerant, maintainable software.
 
 ### 🧪 Current Interests
 *   **BEAM There Done That Podcast** Exploring engineering case studies using the Erlang VM (aka BEAM).
