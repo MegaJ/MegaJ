@@ -35,10 +35,24 @@ Built a social media platform, geared towards social media research, privacy, an
 - **Architectural Wins:** Implemented a real-time geo-matching engine, WebRTC live video chat, and a multi-cloud Terraform infrastructure.
 - **Ops:** Designed a full observability stack using Prometheus, Grafana, Loki, and Tempo.
 
-#### 📚 [Algorithms Mentorship & Open Source](https://codeberg.org/MegaJ)
-Dedicated to elevating the next generation of engineers.
-- **Teaching:** Recorded live lectures on implementing algorithms in Python for college students.
-- **OSS:** Published `sequence-heap` to npm and developed Emacs org-mode extensions for translation.
+#### 🔥 [emacs-fire-shader](https://gitlab.com/MegaJ/emacs-fire-shader)
+**Personal Project**
+A visually striking fire-shader effect for Emacs, blending low-level graphics with editor customization.
+
+---
+
+### 🧩 Engineering Philosophy
+*  👁️ **A Powerful Way of Seeing.** This is my favorite conference talk of all time, presented by Bret Victor: https://youtube.com/watch?v=8pTEmbeENF4. Bret's work taught me how essential it is to create a powerful way of seeing in any system, not just software. Even in the AI era, I believe we've strayed from building tools for true human communication and expression—we're still too focused on sitting behind a keyboard.
+*  📖 **Designing for Simplicity.** When building applications, I align with **A Philosophy of Software Design** by John Ousterhout. I believe the primary goal of software architecture is to reduce complexity.
+*  ⌨️ **The Freedom of Emacs.** Emacs is more than an editor; it's a tool that embodies a type of software freedom. It allows me to constantly reimagine what computing should be and how a workflow should feel. It's quirky, but it's profoundly hackable.
+*  ⚡ **High-Concurrency Thinking.** I was deeply influenced by Carl Hewitt's **Actor Model**—a model of computation more powerful than the Turing Machine. Stumbling into **Elixir** while scaling websocket loads showed me a level of robustness and off-the-shelf inspectability that nothing else comes close to. (See: https://www.youtube.com/watch?v=JvBT4XBdoUE)
+*  💎 **The Power of Abstractions.** I love **Ash** (https://ash-hq.org/). By modeling from the domain, I get security boundaries, API endpoints, and optimized queries for almost free. Ash is a masterclass in creating the right abstractions to build more fault-tolerant, maintainable software.
+
+### 🧪 Current Obsessions
+*   **Deep Dives into the BEAM:** Exploring the internals of the Erlang VM and the finer points of OTP for high-availability systems.
+*   **Workflow Automation:** Pushing the boundaries of Emacs Lisp and Org-mode to turn my editor into a personalized operating system (currently tinkering with `ob-libre-translate`).
+*   **Stealth Browser Automation:** Researching fingerprinting and bot-detection bypasses using Camoufox to enable more robust, human-like browser automation.
+*   **Algorithmic Pedagogy:** Refining how to teach complex data structures and algorithms to diverse learners—finding the intersection of mathematical rigor and intuitive empathy.
 
 ---
 
